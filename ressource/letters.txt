@@ -1,0 +1,458 @@
+a
+:
+
+ o
+o o
+ooo
+o o
+:
+b
+:
+
+o
+oo
+o o
+oo
+:
+c
+:
+
+ oo
+o
+o
+ oo
+:
+d
+:
+
+  o
+ oo
+o o
+ oo
+:
+e
+:
+
+ oo
+oo
+o
+ oo
+:
+f
+:
+
+ oo
+oo
+o
+o
+:
+g
+:
+
+ oo
+o  
+o o
+ oo
+:
+h
+:
+
+o 
+o 
+ooo
+o o
+:
+i
+:
+
+o
+
+o
+o
+:
+j
+:
+
+ o
+ 
+ o
+ o
+o
+:
+k
+:
+
+o 
+o o
+oo
+o o
+:
+l
+:
+
+o
+o
+o
+ o
+:
+m
+:
+
+
+oo oo
+o o o
+o   o
+:
+n
+:
+
+
+oo
+o o
+o o
+:
+o
+:
+
+ o
+o o
+o o
+ o
+:
+p
+:
+
+
+oo
+o o
+oo
+o
+:
+q
+:
+
+
+ o
+o o
+ oo
+  o
+:
+r
+:
+ 
+
+oo
+o
+o
+:
+s
+:
+
+ o
+o
+ o
+o
+:
+t
+:
+
+ o
+ooo
+ o
+  o
+:
+u
+:
+  
+
+o o
+o o
+ o
+:
+v
+:
+
+
+o o
+oo
+o
+:
+w
+:
+
+
+o   o
+o o o
+ o o
+:
+x
+:
+
+
+o o
+ o
+o o
+:
+y
+:
+
+
+o o
+o o
+ o
+o
+:
+z
+:
+
+oo
+ o
+o
+oo
+:
+A
+:
+ o
+o o
+ooo
+o o
+o o
+:
+B
+:
+oo
+o o
+oo
+o o
+oo
+:
+C
+:
+ oo
+o
+o
+o
+ oo
+:
+D
+:
+oo
+o o
+o o
+o o
+oo
+:
+E
+:
+ooo
+o
+oo
+o
+ooo
+:
+F
+:
+ooo
+o
+oo
+o
+o
+:
+G
+:
+ oo
+o  
+o oo
+o  o
+ oo
+:
+H
+:
+o o
+o o
+ooo
+o o
+o o
+:
+I
+:
+ooo
+ o
+ o
+ o
+ooo
+:
+J
+:
+ oo
+  o
+  o
+o o
+ o
+:
+K
+:
+o  o
+o o
+oo
+o o
+o  o
+:
+L
+:
+o
+o
+o
+o
+ooo
+:
+M
+:
+oo oo
+o o o
+o   o
+o   o
+o   o
+:
+N
+:
+o  o
+oo o
+oooo
+o oo
+o  o
+:
+O
+:
+ oo
+o  o
+o  o
+o  o
+ oo
+:
+P
+:
+oo
+o o
+oo
+o
+o
+:
+Q
+:
+ oo
+o  o
+o  o
+o ooo
+ oo
+:
+R
+:
+oo
+o o
+oo
+o o
+o o
+:
+S
+:
+ oo
+o
+ o
+  o
+oo 
+:
+T
+:
+ooo
+ o
+ o
+ o
+ o
+:
+U
+:
+o  o
+o  o
+o  o
+o  o
+ oo
+:
+V
+:
+o   o
+o   o
+o   o
+ o o
+  o
+:
+W
+:
+o   o
+o   o
+o   o
+o o o
+ o o
+:
+X
+:
+o   o
+ o o
+  o
+ o o
+o   o
+:
+Y
+:
+o   o
+ o o
+  o
+  o
+  o
+:
+Z
+:
+ooo
+  o
+ o
+o
+ooo
+:
+@
+:
+ooooo
+o    o       oo
+o           oo ooo
+ o         oo oooo
+   oo   oo oo  oo
+     o    o  o
+      o o o o
+       o
+       o
+      o o o o
+     o    o  o
+   oo   oo oo  oo
+ o         oo oooo
+o           oo ooo
+o    o       oo
+ooooo
+:
+^
+:
+ooooo
+o    o
+o
+ o o
+:
+=
+:
+                        o
+                      o o
+            oo      oo            oo
+           o   o    oo            oo
+oo        o     o   oo
+oo        o   o oo    o o
+          o     o       o
+           o   o        
+            oo
+:
