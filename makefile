@@ -1,4 +1,4 @@
-CFLAFS = -O2 -Wall -pedantic
+CFLAGS = -O2 -Wall -pedantic
 DEBUG_FLAGS = -Wall -pedantic -ggdb
 LIBS = `sdl2-config --cflags --libs` -lSDL2_image -lSDL2_ttf -lm -lGL -ldl
 
